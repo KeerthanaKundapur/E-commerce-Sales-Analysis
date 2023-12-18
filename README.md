@@ -10,6 +10,8 @@ While overall sales and profit figures are positive, the negative YoY growth in 
 
 Dashboard:
 
+https://github.com/KeerthanaKundapur/E-commerce-Sales-Analysis/issues/1#issue-2046919397
+
 Conclusion:
 
 The E-commerce Sales Analysis Excel Dashboard offers a powerful tool for stakeholders to understand the company's performance. The negative YoY growth in profit margin raises a red flag, emphasizing the need for strategic interventions. Insights from month-wise analysis and category-wise profit breakdowns guide decision-making by pinpointing specific areas of concern and success.
