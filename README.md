@@ -10,7 +10,7 @@ While overall sales and profit figures are positive, the negative YoY growth in 
 
 Dashboard:
 
-https://github.com/KeerthanaKundapur/E-commerce-Sales-Analysis/issues/1#issue-2046919397
+<img width="944" alt="Screenshot 2023-12-18 204239" src="https://github.com/KeerthanaKundapur/E-commerce-Sales-Analysis/assets/112420165/0834d682-9f91-4210-bd89-7e51ff7b79c3">
 
 Conclusion:
 
